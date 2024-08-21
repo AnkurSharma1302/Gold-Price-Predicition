@@ -29,7 +29,7 @@ After running the notebook, you will gain insights into:
 - The impact of various economic indicators on gold prices.
 - Predictive models, including the Random Forest Regressor, with evaluation metrics.
 - Visualization of predicted vs. actual gold prices.
-- ![Gold Price Predicition Result]('gold_price_result.png')
+- ![Gold Price Predicition Result]('https://github.com/AnkurSharma1302/Gold-Price-Predicition/blob/main/gold_price_result.png')
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
